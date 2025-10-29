@@ -1,6 +1,7 @@
 # EDA-Project
 <br>
 🏏 IPL Data Analysis (EDA Project)
+<br>
 📘 Overview
 
 This project performs an Exploratory Data Analysis (EDA) on the Indian Premier League (IPL) dataset to uncover insights about matches, teams, toss outcomes, player performances, and venue patterns.
